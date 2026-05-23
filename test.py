@@ -1,5 +1,5 @@
 import os
-# triggering dashboard test
+# triggering dashboard tests
 def login(username, password):
     if username == "admin" and password == "1234":
         return True
