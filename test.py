@@ -1,7 +1,7 @@
 import os
 
 # ============================================
-# Secure Login Function1
+# Secure Login Function2
 # ============================================
 def login(username, password):
     correct_username = "admin"
