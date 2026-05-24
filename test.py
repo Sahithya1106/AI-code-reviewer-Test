@@ -4,7 +4,7 @@ import sqlite3
 from typing import List
 
 # ====================================================
-# AUTHENTICATION - No hardcoded credentials
+# AUTHENTICATION - No hardcoded credentials1
 # ====================================================
 def login(username: str, password: str) -> bool:
     # Passwords should be hashed and checked securely
